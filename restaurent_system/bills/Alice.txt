@@ -1,0 +1,12 @@
+Bill Details:
+Name:  Alice
+Server: John
+Table No: 5
+Date & Time: 2025-05-15 17:50:45
+Server Name: John
+Items                     Qty       Price
+-----------------------------------------
+Pasta:                    2      ...$25.00
+Salad:                    1      ...$5.00
+Tip:                     %10    ...$3.30
+Total:                           ...$36.30
